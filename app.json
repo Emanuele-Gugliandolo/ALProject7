@@ -1,0 +1,32 @@
+{
+  "id": "0890cabe-bec8-40ac-aee0-3b6a29692048",
+  "name": "Import/Export File Format",
+  "publisher": "CloudIA Research",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "App used for importing and exporting data in various formats",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "./src/Resource/Logo_CloudIA.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 50400,
+      "to": 50449
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "13.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
